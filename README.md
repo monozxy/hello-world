@@ -1,2 +1,3 @@
 # hello-world
-Just a practise program
+Hi,guys!
+Monozxy here, I am learning Vue.
